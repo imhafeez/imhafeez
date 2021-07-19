@@ -7,6 +7,9 @@
 - 📫 reach me at: hahmed@fusionsd.com.au
 
 
+<img alt="Twitter Follow" src="https://img.shields.io/twitter/follow/imhafeezkpk?style=social">
+
+
 
 ![Hafeez's GitHub stats](https://github-readme-stats.vercel.app/api?username=imhafeez&show_icons=true)
 
